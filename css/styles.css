@@ -1,0 +1,50 @@
+h1 {
+  padding: 10px 20px;
+  color: #362706;
+  font-family: 'Cormorant', serif;
+}
+
+.text-button{
+  font-size: 200%;
+  position:absolute;
+  top:50%;
+  right:27%;
+
+}
+
+body {
+  background-color: #E9E5D6;
+}
+
+
+
+.navbar-nav{
+  margin-left: auto;
+  padding-bottom: 7px;
+}
+
+
+.navbar{
+  padding-top: 12px;
+}
+
+.mei{
+  height:700px;
+  width:100%;
+}
+
+.border{
+  text-align: center;
+  padding: 25px 5px;
+}
+
+.product{
+  padding: 30px 150px;
+}
+
+.newsletter{
+  height: 50%;
+  background-color:#ACB992;
+  color: #E9E5D6;
+  padding: 15px 50px;
+}
